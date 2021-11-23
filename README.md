@@ -5,7 +5,7 @@ This folder stores a simple text classification Pytorch training pipeline for BE
 To run this demo, a machine with at least one NVIDIA GPU on board is required.
 
 ### Use Docker
-A Dockerfile is enclosed with this repository which will produce a Docker image with required dependencies installed and a Jupyter server automatically launcher.
+A Dockerfile is enclosed with this repository which will produce a Docker image with required dependencies installed and a Jupyter server launched automatically.
 
 Alternatively, you can:
 
